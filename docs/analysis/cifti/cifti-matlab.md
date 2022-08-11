@@ -72,3 +72,4 @@ For an example, let's take the `fsaverage_LR32k` representation of a participant
 
     ![! Key-Value maps for a parcellation](images/maps_cifti_matlab.png)
 
+For cifti files without any area mapping, such as thickness or curvature, the `diminfo{2}` field may be less useful.

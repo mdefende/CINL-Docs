@@ -70,4 +70,5 @@ nav:
       - R:
         - Walkthrough: analysis/cifti/R/cifti-r.html
         - Example Analysis: analysis/cifti/R/cifti-example.html
+      - MATLAB: analysis/cifti/cifti-matlab.md
   - Resources: analysis/resources.md
